@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<description>Linear integer programming for the clustering editing problem</description>
+	<configs>
+		<config default="true" name="Configura&amp;#231;&amp;#227;o1" category="opl">
+			<ref name="cep_lip.mod" type="model">
+			</ref>
+			<ref name="cep_lip.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
