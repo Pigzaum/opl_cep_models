@@ -2,6 +2,12 @@
 	<version>1.0</version>
 	<description>Bulh&amp;#245;es et al. (2017) linear integer programming model for the p-Cluster Editing Problem.</description>
 	<configs>
+		<config default="true" name="Configura&amp;#231;&amp;#227;o1" category="opl">
+			<ref name="p_cep_lip.mod" type="model">
+			</ref>
+			<ref name="p_cep_lip.dat" type="data">
+			</ref>
+		</config>
 	</configs>
 	
 </project>

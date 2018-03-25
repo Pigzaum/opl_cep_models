@@ -36,7 +36,7 @@ subject to
 	      		{
 	      			-x[i][j] + x[i][k] + x[j][k] + y[k] <= 1;
 		 	      	x[i][j] - x[i][k] + x[j][k] <= 1;
-		 	      	x[i][j] - x[i][k] - x[j][k] <= 1;
+		 	      	x[i][j] + x[i][k] - x[j][k] <= 1;
          		}		 	      	
 	      	}
   	
